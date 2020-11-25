@@ -1,0 +1,88 @@
+{
+  "templates": [
+    {
+      "name": "Dots BuJo",
+      "filename": "32_58",
+      "iconCode": "\ue995",
+      "categories": [
+        "Creative",
+        "Grids",
+        "BuJo"
+      ]
+    },
+    {
+      "name": "BuJo quarter",
+      "filename": "32_58_quarter",
+      "iconCode": "\ue995",
+      "categories": [
+        "Grids",
+        "BuJo"
+      ]
+    },
+    {
+      "name": "BuJo month",
+      "filename": "32_58_month",
+      "iconCode": "\ue995",
+      "categories": [
+        "BuJo"
+      ]
+    },
+    {
+      "name": "BuJo month Monday",
+      "filename": "32_58_month_mon",
+      "iconCode": "\ue995",
+      "categories": [
+        "BuJo"
+      ]
+    },
+    {
+      "name": "BuJo month Tuesday",
+      "filename": "32_58_month_tue",
+      "iconCode": "\ue995",
+      "categories": [
+        "BuJo"
+      ]
+    },
+    {
+      "name": "BuJo month Wednesday",
+      "filename": "32_58_month_wed",
+      "iconCode": "\ue995",
+      "categories": [
+        "BuJo"
+      ]
+    },
+    {
+      "name": "BuJo month Thursday",
+      "filename": "32_58_month_thu",
+      "iconCode": "\ue995",
+      "categories": [
+        "BuJo"
+      ]
+    },
+    {
+      "name": "BuJo month Friday",
+      "filename": "32_58_month_fri",
+      "iconCode": "\ue995",
+      "categories": [
+        "Grids",
+        "BuJo"
+      ]
+    },
+    {
+      "name": "BuJo month Saturday",
+      "filename": "32_58_month_sat",
+      "iconCode": "\ue995",
+      "categories": [
+        "BuJo"
+      ]
+    },
+    {
+      "name": "BuJo month Sunday",
+      "filename": "32_58_month_sun",
+      "iconCode": "\ue995",
+      "categories": [
+        "BuJo"
+      ]
+    }
+  ]
+}
