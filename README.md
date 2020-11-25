@@ -1,4 +1,4 @@
-# remarkable-bujo
+# Bullet journal templates for the reMarkable
 Screen estate optimised bullet journal templates for the reMarkable (2) paper tablet
 
 These are basic bullet journaling grids with 32 squares vertically. I created them so that one can easily copy/paste things between monthly, regular and quarter pages while taking advantage of the full screen estate of the reMarkable devices and have day numbers with indicated weekends.
@@ -23,3 +23,7 @@ Depending on your wifi router you might have to replace `reMarkable` with your r
 ## 😱 My reMarkable can’t load templates after the reboot 😱
 
 Don’t panic. Usually that means the reMarkable could not parse the `templates.json` 😖. Look into it and maybe use a [JSON validator](https://duckduckgo.com/q=json+validator&ia=answer) to figure out what is wrong. Usually it is a comma. It happens to everyone once in a while. Bon courage! 🤗
+
+## Credits
+
+The basic dot pattern was created using Austin Andrews’ [Remarkable Template Builder](https://github.com/Templarian/Remarkable).
