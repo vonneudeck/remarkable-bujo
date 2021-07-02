@@ -13,7 +13,7 @@ If you have not used these tools before or feel insecure it is a good idea to re
 1. Copy the `*.png` files to `/usr/share/remarkable/templates/` on your remarkable using something like  
 `scp *.png root@reMarkable:/usr/share/remarkable/templates/.` so that the templates will be on your device.   
 Depending on your wifi router you might have to replace `reMarkable` with your reMarkable’s IP. You find it on the device under `Menu->Settings->Help->About->Copyright and licenses` on the first page in the last line on the screen. Two lines further up you’ll also find the `ssh` **password**.
-1. Either copy the `templates.json` from this repo to your remarkable or edit your existing `templates.json` on your device so that your device becomes aware of the new templates. If you already have added custom templates, you will have to edit. Otherwise just copying should be okay with firmware version 2.4.1.30. and 2.5.0.27 It is safer to make a backup now using `scp root@reMarkable:/usr/share/remarkable/templates/templates.json backuppath/.` and it only takes seconds. After making the backup
+1. Either copy the `templates.json` from this repo to your remarkable or edit your existing `templates.json` on your device so that your device becomes aware of the new templates. If you already have added custom templates, you will have to edit. Otherwise just copying should be okay (tested with firmware version 2.4.1.30., 2.5.0.27 and 2.8.0.98) It is safer to make a backup now using `scp root@reMarkable:/usr/share/remarkable/templates/templates.json backuppath/.` and it only takes seconds. After making the backup
 **either**
     * Copy the `templates.json` from this repo `scp templates.json root@reMarkable:/usr/share/remarkable/templates/.`  
 **or**  
